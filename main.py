@@ -15,7 +15,7 @@ locations = [
     {"name": "Mumbai", "coords": [19.0760, 72.8777]},
     {"name": "Chennai", "coords": [13.0827, 80.2707]},
     {"name": "Kolkata", "coords": [22.5726, 88.3639]},
-    {"name": "Bangalore", "coords": [12.9716, 77.5946]},
+ 
 ]
 
 # Add markers for each location
